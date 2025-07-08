@@ -7,4 +7,5 @@ gem "jekyll-theme-slate"
 
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
+gem "kramdown-parser-gfm"
 
