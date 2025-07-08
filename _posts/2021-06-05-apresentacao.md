@@ -1,13 +1,13 @@
 ---
 layout: post
-title: About me
+title: About me - Leonardo
 cover-img: /assets/img/thumb.png
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/thumb.png
 tags: [aboutme]
 ---
 
-### 🇧🇷🏳️‍🌈🖖 [Alola!](https://bulbapedia.bulbagarden.net/wiki/Alola#Etymology) Hi! :)
+### 🇧🇷🏳️‍🌈🖖 [Alola!](https://bulbapedia.bulbagarden.net/wiki/Alola#Etymology) Hi! :) I'm Leonardo!
 
 
 
