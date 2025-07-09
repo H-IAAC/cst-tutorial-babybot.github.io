@@ -50,11 +50,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "l261900@dac.unicamp.br"
+  email: "l261900@dac.unicamp.br;cepcamargo@gmail.com"
 #  facebook: deanattali
   github: leolellisr
-  email: "cepcamargo@gmail.com"
-  github: TBA44
+#  github: TBA44
 #  twitter: leolellisr
 #  patreon: DeanAttali
 #  youtube: channel/UCIIWpHxZKgFoy_D3eOFJzzA
