@@ -42,8 +42,30 @@
   journal: Sociedade Brasileira de Computação 
   doi: 10.5753/wtdr_ctdr.2022.227371
 
+- date: 2022-09-15
+  type: conference
+  status: published
+  authors: Eduardo Camargo, Eduardo Y. Sakabe and Ricardo Gudwin
+  title: "Existence, Hypotheses and Categories in Knowledge Representation"
+  journal: Procedia Computer Science – Proceedings of the 2022 Annual International Conference on Brain-Inspired Cognitive Architectures for Artificial Intelligence (BICA 2022)
+  publisher: Elsevier
 
+- date: 2022-05-01
+  type: journal
+  status: published
+  authors: Eduardo Camargo and Ricardo Gudwin
+  title: "From signal to knowledge and from knowledge to action: Peircean semiotics and the grounding of cognition"
+  journal: Filozofia i Nauka - Studia filozoficzne i interdyscyplinarne, Tom 10, zeszyt specjalny
+  pages: 101–134
 
+- date: 2022-04-10
+  type: conference
+  status: published
+  authors: Eduardo Camargo and Ricardo Gudwin
+  title: "Using Peircean Semiotics as the Grounding of Cognition"
+  journal: Proceedings of The 2021 Summit of the International Society for the Study of Information
+  volume: 81
+  
 - date: 2019-11-01
   type: masters dissertation
   status: published
