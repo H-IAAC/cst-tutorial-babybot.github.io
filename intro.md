@@ -21,3 +21,37 @@ The cognitive architecture cycle involves the following steps: acquiring sensory
 
 
 
+
+<h2>🚼 About the Tutorial</h2>
+<p>
+  <strong>Programming a BabyBot: Foundations for a Newborn Robot</strong><br>
+  This full-day hands-on tutorial guides participants in building a cognitive system that simulates Piaget’s first sensorimotor substage. Through four sessions, attendees will learn and implement cognitive modules related to <strong>sensory processing, perception, and selective attention</strong>, using the CST architecture.
+</p>
+<p>
+  Participants will gain practical experience in implementing a biologically inspired cognitive agent that models early intelligence through interaction with its environment. The tutorial is ideal for students and researchers in AI, robotics, and cognitive science.
+</p>
+
+<hr>
+
+<h2>💼 What You’ll Need</h2>
+<ul>
+  <li>A laptop with <strong>Docker installed</strong></li>
+  <li>Basic familiarity with Linux command line and programming logic</li>
+  <li>An interest in cognitive modeling, robotics, or developmental systems</li>
+</ul>
+<p>
+  We will provide all additional resources, including the Docker image, project files, and usage instructions.
+</p>
+
+<hr>
+
+<h2>📋 Confirm Your Participation</h2>
+<p>
+  Please help us plan better by confirming your attendance using the link below:
+</p>
+<p>
+  <a href="https://forms.gle/1QpgbQE5YkxbJDhAA" target="_blank" style="font-size: 1.2em; font-weight: bold;">→ Confirm ICDL Attendance via Forms</a>
+</p>
+
+<hr>
+
