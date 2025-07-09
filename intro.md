@@ -35,7 +35,7 @@ The cognitive architecture cycle involves the following steps: acquiring sensory
 
 <h2>💼 What You’ll Need</h2>
 <ul>
-  <li>A laptop with <strong>Docker installed</strong></li>
+  <li>A laptop with <strong>Docker and git installed</strong></li>
   <li>Basic familiarity with Linux command line and programming logic</li>
   <li>An interest in cognitive modeling, robotics, or developmental systems</li>
 </ul>
