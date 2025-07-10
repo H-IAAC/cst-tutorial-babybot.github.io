@@ -5,7 +5,7 @@ subtitle:
 ---
 # Getting started!
 
-This guide walks you through setting up and running the full **CST Babybot** environment inside Docker.
+This guide walks you through setting up the **CST Babybot** environment inside Docker.
 
 ---
 
