@@ -67,7 +67,7 @@ subtitle:
 
 # Contact
 
-## Organizers
+## 👷🏼‍♀️ Organizers
 
 
 <div class="cards-container">
@@ -119,7 +119,7 @@ subtitle:
 
 <hr>
 
-## Info
+## ℹ️ Info
 The contact info of the website authors are in the icons at the footer of the page.
 
 
