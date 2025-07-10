@@ -85,7 +85,7 @@ cd /sharevnc/1_MIMoCoreModelExample
 javac -encoding UTF-8 -cp "lib/*:src" -d build src/ExperimentMain.java
 ```
 
-> 🔧 Don’t forget to make the script executable:
+> 🔧 If you need, make the script executable:
 
 ```bash
 chmod +x script1.sh
