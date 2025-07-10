@@ -72,7 +72,7 @@ subtitle:
 
 <div class="cards-container">
   <div class="card">
-    <img src="assets/img/org/aut1.jpg" alt="Leonardo de Lellis Rossi">
+    <img src="{{'assets/img/org/aut1.jpg' | relative_url }} alt="Leonardo de Lellis Rossi">
     <div class="card-content">
       <h4>Leonardo de Lellis Rossi</h4>
       <p>PhD. Candidate - Unicamp - H.IAAC</p>
@@ -81,7 +81,7 @@ subtitle:
   </div>
 
   <div class="card">
-    <img src="assets/img/org/aut2.jpg" alt="Eduardo Camargo">
+    <img src="{{'assets/img/org/aut2.jpg' | relative_url }} alt="Eduardo Camargo">
     <div class="card-content">
       <h4>Eduardo Camargo</h4>
       <p>Postdoc. - Unicamp - H.IAAC</p>
@@ -90,7 +90,7 @@ subtitle:
   </div>
 
   <div class="card">
-    <img src="assets/img/org/aut3.jpg" alt="Paula D. P. Costa">
+    <img src="{{'assets/img/org/aut3.jpg' | relative_url }} alt="Paula D. P. Costa">
     <div class="card-content">
       <h4>Paula D. P. Costa</h4>
       <p>Professor and Research Scientist - Unicamp - H.IAAC</p>
@@ -99,7 +99,7 @@ subtitle:
   </div>
 
   <div class="card">
-    <img src="assets/img/org/aut4.jpg" alt="Ricardo Gudwin">
+    <img src="{{'assets/img/org/aut4.jpg' | relative_url }} alt="Ricardo Gudwin">
     <div class="card-content">
       <h4>Ricardo Gudwin</h4>
       <p>Professor and Research Scientist - Unicamp - H.IAAC</p>
@@ -108,7 +108,7 @@ subtitle:
   </div>
 
   <div class="card">
-    <img src="assets/img/org/aut5.jpg" alt="Esther L. Colombini">
+    <img src="{{'assets/img/org/aut5.jpg' | relative_url }} alt="Esther L. Colombini">
     <div class="card-content">
       <h4>Esther L. Colombini</h4>
       <p>Professor and Research Scientist - Unicamp - H.IAAC</p>
