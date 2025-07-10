@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 🤓📚 Publications
-subtitle: test
+subtitle: Projects with CST
 ---
 
 <div id="accordion">
